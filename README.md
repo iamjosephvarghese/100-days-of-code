@@ -185,3 +185,9 @@ Official Repository of GetSetCodeKerala where the participants login their daily
      **Thoughts**: Didn't do much today apart from making some UI changes. Next thing to do is make a form and insert book data to database.
 
      **Name** : Subin
+     
+*    **Today's Progress**: Some extra works on app made for client.
+
+     **Thoughts**: Planning to make a blog related to android. Not much coding today!!!
+     
+     **Name** : Joseph Varghese
